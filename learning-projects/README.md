@@ -1,6 +1,6 @@
 # Learning Projects
 
-This folder contains a set of personal projects developed to improve my practical technical skills.
+This folder contains a set of personal projects developed as part of the IBM AI Developer Professional Certificate.
 
 Each subfolder includes:
 - the source code (Python scripts and/or notebooks),
