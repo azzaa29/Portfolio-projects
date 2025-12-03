@@ -2,12 +2,8 @@
 
 This folder contains a set of personal projects developed as part of the IBM AI Developer Professional Certificate.
 
-Each subfolder includes:
-- the source code (Python scripts and/or notebooks),
-- a short README explaining the goal of the project,
-- any additional resources needed to reproduce the results.
-
-Projects currently included:
-- **Image Captioning Model**
-- **Speech Emotion Analyzer**
-- **Gradio ML Demo**
+## Included projects
+- **Chatbot App** – simple conversational agent using Hugging Face Transformers and Flask  
+- **Speech-to-Text App** – Gradio interface using Whisper for audio transcription  
+- **Sentiment Analysis App** – web app using a remote BERT-based sentiment model (Flask + JavaScript)  
+- **Image Captioning** – BLIP model for generating captions from images (CLI + Gradio)
