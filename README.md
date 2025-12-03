@@ -17,7 +17,7 @@ Small applications created while completing the **IBM AI Developer Professional 
 
 ---
 
-## 🚀 NoC – Instant Payments MVP
+## 💳 NoC – Instant Payments MVP
 A technical prototype of a digital POS system designed to reduce or eliminate merchant transaction fees by replacing card payments with **instant SEPA transfers (TIPS)**.
 
 **Problem:** traditional card payments impose high fees on merchants.  
