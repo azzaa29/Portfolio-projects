@@ -8,4 +8,5 @@ Includes:
 - a minimal API built with Flask (`chatbot_api.py`)
 
 The chatbot keeps a short conversation history and generates replies using a
-Seq2Seq model. This project was part of my learning path in ML and NLP.
+Seq2Seq model. 
+This project was developed as part of the IBM AI Developer Professional Certificate.
