@@ -2,7 +2,6 @@
 Simple command-line chatbot using the facebook/blenderbot-400M-distill model
 from Hugging Face Transformers.
 
-This script is intended for learning purposes only.
 """
 
 from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
