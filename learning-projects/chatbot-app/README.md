@@ -9,4 +9,4 @@ Includes:
 
 The chatbot keeps a short conversation history and generates replies using a
 Seq2Seq model. 
-This project was developed as part of the IBM AI Developer Professional Certificate.
+
