@@ -2,7 +2,6 @@
 Minimal Flask API exposing a chatbot endpoint using the
 facebook/blenderbot-400M-distill model from Hugging Face.
 
-Educational example – not intended for production use.
 """
 
 import json
